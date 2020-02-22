@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  Runner
+
+  Created by 海渡裕貴 on 2020/02/19.
+  Copyright © 2020 The Chromium Authors. All rights reserved.
+*/
+
+
+CFBundleDisplayName = "What2Do";
+CFBundleName = "What2Do";
