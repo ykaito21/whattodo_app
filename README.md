@@ -11,8 +11,8 @@
 </div>
 
 <div align="center">
-  <div style=" width:200px;">
-    <img src="pub_assets/screenshots//whattodo.gif">
+  <div style="align-items: center; display: flex; justify-content: center;">
+    <img src="pub_assets/screenshots/whattodo.gif" width="200">
   </div>
 </div>
 
